@@ -11,7 +11,7 @@ Key Features
 -  Smart auto-selection of the best price/quality/speed combo
 
 
-# AIChat: All-in-one LLM CLI Tool
+# AIChat: Open AI
 
 [![CI](https://github.com/sigoden/aichat/actions/workflows/ci.yaml/badge.svg)](https://github.com/sigoden/aichat/actions/workflows/ci.yaml)
 [![Crates](https://img.shields.io/crates/v/aichat.svg)](https://crates.io/crates/aichat)
