@@ -1,14 +1,14 @@
-## 30+ Providers Supported Out-of-the-Box
+### 30+ Providers Supported Out-of-the-Box
 OpenAI • Anthropic • Groq • Gemini • Ollama • Azure OpenAI • AWS Bedrock • xAI Grok • Mistral • DeepSeek • Cohere • Perplexity • OpenRouter • Moonshot • Qwen • Yi • Llama-405B • o4-mini • Grok-4-Heavy • and any OpenAI-compatible API
 Key Features
 
---nexus – multi-agent orchestrator (automatic best-of-N)
---remember ./project – project-long RAG memory (500k+ tokens)
-50+ built-in plugins: git-agent, docker-build, k8s-deploy, security-scan, trading-bot, etc.
---voice – full voice input/output, works even in pure terminal
---stealth – anonymous requests via proxy pools + random headers
---billing – precise cost tracking across all providers
-Smart auto-selection of the best price/quality/speed combo
+- ** nexus – multi-agent orchestrator (automatic best-of-N)
+- ** remember ./project – project-long RAG memory (500k+ tokens)
+- ** 50+ built-in plugins: git-agent, docker-build, k8s-deploy, security-scan, trading-bot, etc.
+- ** voice – full voice input/output, works even in pure terminal
+- ** stealth – anonymous requests via proxy pools + random headers
+- ** billing – precise cost tracking across all providers
+- ** Smart auto-selection of the best price/quality/speed combo
 
 
 # AIChat: All-in-one LLM CLI Tool
