@@ -1,3 +1,5 @@
+# AIChat: Open AI
+
 ### 30+ Providers Supported Out-of-the-Box
 OpenAI • Anthropic • Groq • Gemini • Ollama • Azure OpenAI • AWS Bedrock • xAI Grok • Mistral • DeepSeek • Cohere • Perplexity • OpenRouter • Moonshot • Qwen • Yi • Llama-405B • o4-mini • Grok-4-Heavy • and any OpenAI-compatible API
 Key Features
@@ -10,8 +12,6 @@ Key Features
 -  billing – precise cost tracking across all providers
 -  Smart auto-selection of the best price/quality/speed combo
 
-
-# AIChat: Open AI
 
 [![CI](https://github.com/sigoden/aichat/actions/workflows/ci.yaml/badge.svg)](https://github.com/sigoden/aichat/actions/workflows/ci.yaml)
 [![Crates](https://img.shields.io/crates/v/aichat.svg)](https://crates.io/crates/aichat)
